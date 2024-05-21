@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CermeGod
-- 👀 I’m interested in leraning C++ like a pro
+- 👀 I’m interested in learning C++ like a pro
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing special now
 - 📫 How to reach me @gabrielcy1405@gmail.com
