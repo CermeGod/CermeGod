@@ -1,13 +1,18 @@
-- 👋 Hi, I’m @CermeGod
-- 👀 I’m interested in learning C++ like a pro
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on nothing special now
-- 📫 How to reach me @gabrielcy1405@gmail.com
-- 😄 Pronouns: Cermegod          
-- ⚡ Fun fact: I love K-on, my favorite song is Honey Sweet tea time
-- -ZS=9)
+💻 Gabriel  🚀
+¡Hola! Soy Gabriel, estudiante de Ingeniería de Sistemas en la UPC, actualmente en 5to ciclo. Me apasiona el Data Science y busco seguir creciendo en este campo a través de proyectos y nuevas experiencias.
 
-<!---
-CermeGod/CermeGod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📌 Objetivo: Convertirme en Data Scientist y especializarme en análisis de datos, machine learning e infraestructura en la nube.
+
+🚀 Habilidades y Tecnologías
+💡 Lenguajes: Python, C++, JavaScript
+🎨 Desarrollo Web: HTML, CSS, TailwindCSS
+🛠️ Bases de Datos: SQL Server, MongoDB
+☁️ Cloud & DevOps: AWS, Azure
+🌎 Idiomas: Español (nativo), Inglés (avanzado)
+
+📂 Proyectos en los que estoy trabajando
+🔹 Aplicaciones para análisis de datos
+🔹 Web scraping y automatización
+🔹 Proyectos backend con bases de datos
+
+Siempre estoy en busca de nuevas oportunidades para aprender y aplicar mis conocimientos en proyectos desafiantes. ¡Conectemos!
